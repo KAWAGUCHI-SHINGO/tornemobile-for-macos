@@ -1,0 +1,2 @@
+# tornemobile-for-macos
+macOSでiOS版tornemobileを利用するにあたって快適に離床するためのガイド
